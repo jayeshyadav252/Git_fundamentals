@@ -1,0 +1,8 @@
+ls
+cd 		(select file path here)/or be in same directory
+git init
+git remote add origin [gitLink]
+git remote -v
+git add .
+git commit -m "First commit"
+git push origin master
